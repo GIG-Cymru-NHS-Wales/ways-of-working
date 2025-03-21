@@ -1,6 +1,6 @@
 # Ways of Working
 
-DRAFT - WORK IN PROGRESS - REQUEST FOR COMMENTS
+DRAFT + WORK IN PROGRESS + REQUEST FOR COMMENTS
 
 Ways of Working (WoW) is a phrase that describes how people collaborate. Also known as working agreements, principles, values, tenets, norms, ground rules, group expectations, team aspirations, group understandings, company culture, and more.
 
@@ -39,6 +39,8 @@ Your ways of working are open to debate. Example: you confirm that each of your 
 Your ways of working are alertable. Example: your teammates all know quickly if someone breaks the ways of working, and also all know who is responsible, accountable, and capable of handling the breakage.
 
 ## Resources
+
+* [Architecture Decision Records: Ways of Working](https://github.com/GIG-Cymru-NHS-Wales/Architecture-Decision-Records/blob/026e48a65e244eb19809116d44efdb7859a0e962/ways-of-working/index.md) - draft, work in progress, request for comments.
 
 * [https://github.com/joelparkerhenderson/ways-of-working](https://github.com/joelparkerhenderson/ways-of-working) - Introduction of typical good practices.
 
