@@ -1,6 +1,6 @@
 # Ways of Working
 
-DRAFT + WORK IN PROGRESS + REQUEST FOR COMMENTS
+EXPERIMENT BY IGDC-DHCW + DRAFT + WORK IN PROGRESS + REQUEST FOR COMMENTS
 
 Ways of Working (WoW) is a phrase that describes how people collaborate. Also known as working agreements, principles, values, tenets, norms, ground rules, group expectations, team aspirations, group understandings, company culture, and more.
 
