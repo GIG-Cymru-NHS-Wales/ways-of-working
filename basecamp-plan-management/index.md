@@ -1,30 +1,51 @@
 # Business Case: Basecamp for DHCW Plan Management
 
-!!! Wokk In Progress - Request For Comments
+!!! Work In Progress - Request For Comments
 
 ## Executive Summary
 
 Urgent need: in two weeks, Joel begins leading many testers, who are working
 across many projects, and who have urgent needs for shipping software and for
-rapid upskilling.
+rapid upskilling. Joel's evaluated many choices and intends to proceed with
+a pilot for Basecamp.com for testers and any other staff that want to try it.
 
-Current state: our organization doesn't have a way for all of us to plan across
-all of our projects; this causes three major burning problems: 1) work isn't
-visible, leading to miscommunication and missed deadlines, 2) work is getting
-lost often, leading to confusion and tribal pockets, 3) staff are frustrated by
-not understanding the project scope/context/schedule, leading to morale
-suffering.
+## Context
 
-Goal state: Therefore Joel wants to trial Basecamp.com, which is simple plan
-management software, that is especially easy to use, and especially easy to
-purchase right now because there's a special pricing plan of £300/month for
-everyone at our organization plus our consultants and external stakeholders.
+**Current state:** our organization doesn't have a way for all of us to plan
+across all of our projects; this causes three major burning problems: 1) work
+isn't visible, leading to miscommunication and missed deadlines, 2) work is
+getting lost often, leading to confusion and tribal pockets, 3) staff are
+frustrated by not understanding the project scope/context/schedule, leading to
+morale suffering.
 
-Context: Basecamp is intended to be a "front door" that provides a project entry
-point, then in turn points users to any of our more-advanced existing systems,
-such as to internal Sharepoint sites, internal Microsoft Project plans, internal
-Jira/Trello boards, and the like. Basecamp is not intended to replace any of
-these more-expensive more-sophisticated systems.
+**Goal state:** our organization aims for organization-wide visibility of
+projects, their key dates, key todos, key people, and the like; all staff have
+equal access to the tool, and can create projects, dates, todos, stakeholders,
+and the like.
+
+**Plan:**  Joel intends to trial Basecamp.com, which is simple plan management
+software, that is especially easy to use, and especially easy to purchase right
+now because there's a special pricing plan of £300/month for everyone at our
+organization plus our consultants and external stakeholders.
+
+**Primary Differentiator**: Basecamp pricing is viable right now, for our entire
+staff and stakeholders, at £300/month all in; no other paid cloud tool comes
+close because they are approximately £10000/month all in. 
+
+**Secondary Differentiator**: Basecamp is especially user-friendly for working
+with external stakeholders, for our operations initiatives in improving our
+user-centered design and improving our shift-left testing with UAT. As one
+example that's already working well, we can plan the leadership event day using
+Basecamp, and invite our technical staff, comms staff, external speakers, and
+more into the event day project.
+
+**Context:** Joel is aiming for Basecamp to be a "front door" that provides a
+project entry point, and points users to any of our more-advanced existing
+systems, such as to internal Sharepoint sites, internal Microsoft Project plans,
+internal Jira/Trello boards, and the like. In other words, Basecamp is
+just-enough for simple projects, and is icing on the cake for our more-expensive
+more-sophisticated systems to help us make the work visible, searchable, and
+shareable.
 
 ## What is Basecamp?
 
@@ -40,7 +61,7 @@ Key features:
 
 Comparable features can be found in a wide range of planner products:
 
-- Microsoft office-oriented products such as Project, Planner, DevOps.
+- Microsoft office-oriented products such as Project, Planner, Loop, DevOps.
   
 - Atlassian developer-oriented products such as Trello, Jira, Confluence.
  
@@ -105,7 +126,33 @@ overhead rather than simplification.
 
 - Continually emphasis the importance of cross-team upskilling and cross-team
   software engineering, rather than silos.
-  
+
+## Assessments
+
+This section has Joel's personal assessments. Anyone else can chime in too.
+
+Joel has used many of these tools on real world projects and teams. Generally they all work semi-well, and there's no perfect choice until an organization goes into very large expensive software for enterprise resource planning (ERP). Each tool has pros and cons, however at the end of the day they're all much too expensive to use for all our staff. This is why Basecamp is the right choice for right now.
+
+### Option: Asana, Linear, Workday, ClickUp, Monday, etc.
+
+Asana is my overall favorite for whole-organization projects. But it's harder than others to customize, and harder than others to use with APIs.
+
+Linear is my favorite for technical task tracking e.g. use cases to code delivery. In Silicon Valley it's the tool of choice for tech teams. However, Linear is not user-friendly IMHO and not good with external stakeholders.
+
+All of the others in this category are in the same general range of capabilities and price points, as of the most-recent time I evaluated options a year ago.
+
+### Options: Atlassian (Trello, Jira, Confluence)
+
+Trello is a favorite for ease of use, plus many integrations, plus excellent APIs for doing more-advanced calculations. Trello is free for teams up to 10, then approximately £10/month/user.
+
+Jira/Confluence tend to be end-destinations for many enterprise companies like ours, because both provide lots of power, though are expensive and often require customization. We could/should aim for these for everyone within a few years or so. Basecamp is a step along this path.
+
+### Option: Microsoft (Project, Planner, Loop)
+
+Microsoft Project is excellent I would choose it if cost were no issue, meaning for the software and also for the upskilling training for all the staff, as well as the external stakeholders. Even the cheapest-tier plan is "Planner Plan 1 - $10.00 /user/month" which is vastly more expensive than Basecamp.
+
+I've never used Loop because I've read many cons about it. E.g. "I tried to use it. but I can't get past the current clunkiness and the endless bugs.", "Tried it but found it pretty much useless.", "missing fields, lacks reporting, has glitches, and so on."
+
 ## Implementation Strategy
 
 ### Phase 1: Pilot Launch
@@ -116,7 +163,6 @@ overhead rather than simplification.
   Authentication and Emergency Department Module.
 
 - Run parallel to existing tools, such that teams can continue their full-speed work.
-
 
 ### Phase 2: Rollout
 
@@ -177,4 +223,3 @@ address our organization's current fragmentation challenges while maintaining
 investment in specialized tooling where it delivers value.
 
 QUESTION: How can we approve the funding?
-
