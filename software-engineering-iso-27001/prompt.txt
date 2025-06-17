@@ -1,0 +1,11 @@
+Generate a business plan for ISO 27001 compliance.
+
+* Software engineering best practices.
+
+* Automatic testing for quality and security.
+
+* Migrating from self-hosting to containerization.
+
+* Migrating from on-premise data centers to cloud.
+
+* Migrating from one-per-year auditing to continuous telemetry.
