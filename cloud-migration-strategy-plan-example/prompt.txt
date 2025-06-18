@@ -1,0 +1,45 @@
+# Cloud migration strategy plan
+
+Goals:
+
+- Migrate our on-premise products and services to Microsoft Cloud and Google Cloud.
+- Create plans for resources, staffing, training, budgeting, testing, and learning.
+- 
+
+Questions:
+
+- What are the main benefits of migrating to the cloud?
+- What are common cloud migration strategies?
+- What are common cloud migration challenges?
+
+Key Areas:
+
+- Applications
+- Digital Products
+- Digital Services
+- Data Stores
+- Infrastructure
+- Telemetry
+
+Maturity Model Stages:
+
+- Level 1: Investigate & Initiate
+- Level 2: Describe & Develop
+- Level 3: Specify & Standardize
+- Level 4: Measure & Manage
+- Level 5: Optimize & Orchestrate
+
+Lenses:
+
+- Software as a Service (SaaS)
+- Platform as a Service (PaaS)
+- Infrastructure as a Service (IaaS)
+
+System Quality Attributes:
+
+- Reliability
+- Recoverability
+- Scalability
+- Maintainability
+- Observability
+- Security
